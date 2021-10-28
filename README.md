@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**qm3cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qm3cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) is my search in network.
 
 Here are some ideas to get you started:
 
