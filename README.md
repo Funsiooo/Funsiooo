@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**qm3cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) i search in network.
+**Funsiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) i search in network.
 
 Here are some ideas to get you started:
 
