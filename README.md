@@ -12,4 +12,4 @@ About Me
 - 🤹‍♂️ 技术栈扩充中，需沉淀，需经历。
 - 🌱 纵有千古，横有八荒。前途似海，来日方长。
 
-![image](https://github.com/Funsiooo/Funsiooo/1.png)
+![image]("https://github.com/Funsiooo/Funsiooo/blob/main/1.png")
