@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Funsiooo.
 
-About me
+About Me
 ---
 - 🔭 Network security practitioners.
 - 🤹‍ Technology stack expansion.
