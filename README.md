@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-**Funsiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) i search in network.
-
-about me
+✨ About me ✨ 
 ---
 - 🔭 Network security practitioners.
 - 🤹‍ Technology stack expansion.
 - 🌱 In case I don't see you, good afternoon, good evening, and good night!
 
-关于我
+✨ 关于本人 ✨ 
 ---
 - 🔭 网络安全行业初哥
 - 🤹‍♂️ 技术栈扩充中。需沉淀，需经历。
