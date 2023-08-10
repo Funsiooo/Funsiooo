@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me/关于本人**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/Funsiooo/blob/main/banner.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/banner.svg" />
 
 - 🔭 Network security practitioners.
 
