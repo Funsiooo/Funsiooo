@@ -4,7 +4,7 @@
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="400" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.gif" />
+<img width="400" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/work.gif" />
 
 
 About Me
