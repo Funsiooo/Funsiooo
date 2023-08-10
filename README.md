@@ -3,7 +3,7 @@
  
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="%" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.gif" />
+<img width="450" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.gif" />
 
 
 About Me
