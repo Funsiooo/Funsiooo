@@ -9,9 +9,9 @@
 About Me
 ---
 
--  [![GIF](https://github.com/Funsiooo/Funsiooo/blob/main/images/Developer.gif)](https://github.com/Funsiooo/Funsiooo/blob/main/images/Developer.gif) Network security practitioners.
+- 🔭 Network security practitioners.
 - 🤹‍ Technology stack expansion.
-- 🌱 In case I don't see you, good afternoon, good evening, and good night!
+- 🌱 In case I don't see you, good afternoon, good evening, and good vnight!
 
 
 
@@ -23,6 +23,10 @@ About Me
 - 🌱 纵有千古，横有八荒。前途似海，来日方长。
 
 
+
+
+
 ---
 
 ![image](https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.png)
+
