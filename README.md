@@ -9,7 +9,7 @@
 About Me
 ---
 
-- 🔭 Network security practitioners.
+-  [![GIF](https://github.com/Funsiooo/Funsiooo/blob/main/images/Developer.gif)](https://github.com/Funsiooo/Funsiooo/blob/main/images/Developer.gif) Network security practitioners.
 - 🤹‍ Technology stack expansion.
 - 🌱 In case I don't see you, good afternoon, good evening, and good night!
 
