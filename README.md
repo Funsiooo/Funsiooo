@@ -1,4 +1,4 @@
-## Hi, I'm Funsiooo, a Cyber security practitioner [![img](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif)](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif) .
+## Hi, I'm Funsiooo, a Cyber security practitioner [![img](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif)](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif) 
 
 
 
