@@ -1,4 +1,4 @@
-## Hi, I'm Funsiooo, a Cyber security practitioner 🚀 .
+## Hi, I'm Funsiooo, a Cyber security practitioner [![img](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif)](https://github.com/Funsiooo/Funsiooo/blob/main/images/Super_Maria.gif) .
 
 
 
@@ -30,5 +30,3 @@ About Me
 ---
 
 ![image](https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.png)
-
-[![img](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330) नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! [![img](https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966)](https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966)
