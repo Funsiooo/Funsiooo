@@ -3,7 +3,7 @@
  
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.gif" />
+<img width="%" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.gif" />
 
 
 About Me
@@ -21,6 +21,10 @@ About Me
 - 🔭 网络安全行业从业者。
 - 🤹‍♂️ 技术栈扩充中，需沉淀，需经历。
 - 🌱 纵有千古，横有八荒。前途似海，来日方长。
+
+
+
+
 
 ---
 
