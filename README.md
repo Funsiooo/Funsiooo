@@ -1,3 +1,12 @@
+## Hi, I'm Funsiooo, a Cyber security practitioner 🚀 .
+
+
+**About Me/关于本人**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://github.com/Funsiooo/Funsiooo/blob/main/banner.svg" />
+
+
 About Me
 ---
 
