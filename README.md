@@ -28,5 +28,3 @@ About Me
 
 
 ---
-
-![image](https://github.com/Funsiooo/Funsiooo/blob/main/images/banner.png)
