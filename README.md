@@ -14,7 +14,6 @@ About Me
 - 🤹‍ Technology stack expansion.
 - 🌱 In case I don't see you, good afternoon, good evening, and good night!
 
-<br/>
 
 关于本人
 ---
